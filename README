@@ -1,0 +1,40 @@
+///Created By : Praveen Kumar
+///Contact : +91 9717811031 , pravgcet@gmail.com	
+
+Assignment for Internship
+
+Valid Indian mobile numbers
+
+Format 1 : +91 (9/8/7)XXXXXXXXX
+
+Format 2 : +91(9/8/7)XXXXXXXXX
+
+Format 3 : (9/8/7)XXXXXXXXX 
+
+Used Regular expression to match pattern
+
+How to Run : 
+
+$python trav.py full_path_to_folder
+
+for example 
+
+$python trav.py /home/praveen/folder_to_traverse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
